@@ -4,7 +4,7 @@
 # In[1]:
 
 
-name = "Tom"
+name = "boobabboo"
 student_1 = "Tom"
 student_2 = "Jerry"
 
